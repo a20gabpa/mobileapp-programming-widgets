@@ -43,6 +43,21 @@
             android:background="?android:attr/listDivider"
             android:translationY="20dp" />
 
+        <CalendarView
+            android:id="@+id/calendarView2"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:rotationX="-5"
+            android:translationY="30dp"
+            android:visibility="visible"
+            tools:visibility="visible" />
+
+        <View
+            android:id="@+id/divider5"
+            android:layout_width="match_parent"
+            android:layout_height="1dp"
+            android:background="?android:attr/listDivider" />
+
     </LinearLayout>
 
 </androidx.constraintlayout.widget.ConstraintLayout>
