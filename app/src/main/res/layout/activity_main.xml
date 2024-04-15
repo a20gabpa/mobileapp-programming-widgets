@@ -26,6 +26,7 @@
             android:id="@+id/divider4"
             android:layout_width="match_parent"
             android:layout_height="1dp"
+            android:layout_margin="1dp"
             android:background="?android:attr/listDivider"
             android:translationY="20dp" />
 
@@ -34,6 +35,7 @@
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_gravity="center"
+            android:layout_margin="2dp"
             android:numStars="5"
             android:rotationX="30"
             android:scaleX="0.8"
@@ -43,6 +45,7 @@
             android:id="@+id/divider"
             android:layout_width="match_parent"
             android:layout_height="1dp"
+            android:layout_margin="1dp"
             android:background="?android:attr/listDivider"
             android:translationY="20dp" />
 
@@ -50,6 +53,7 @@
             android:id="@+id/calendarView2"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
+            android:layout_margin="2dp"
             android:rotationX="-5"
             android:translationY="30dp"
             android:visibility="visible"
@@ -59,6 +63,7 @@
             android:id="@+id/divider5"
             android:layout_width="match_parent"
             android:layout_height="1dp"
+            android:layout_margin="1dp"
             android:background="?android:attr/listDivider" />
 
     </LinearLayout>
@@ -82,6 +87,7 @@
             android:id="@+id/textView"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
+            android:layout_margin="2dp"
             android:layout_weight="1"
             android:gravity="center"
             android:text="Hello there!"
@@ -92,6 +98,7 @@
             android:id="@+id/button3"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
+            android:layout_margin="2dp"
             android:layout_weight="1"
             android:scaleX="0.8"
             android:scaleY="0.8"
