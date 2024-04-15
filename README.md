@@ -55,5 +55,4 @@ Slutligen lades en ny sektion till med en horisontell _LinearLayout_ som innehå
 Därefter updaterades några marginaler samt positioner på objekten.
 
 Ett skärmklipp från den färdiga applikationen:
-
-![Screenshot_20240415_061311](https://github.com/a20gabpa/mobileapp-programming-widgets/assets/102604680/ef3522e9-2fa6-42a2-bb0b-1462217fdd69)
+![Screenshot_20240415_064706](https://github.com/a20gabpa/mobileapp-programming-widgets/assets/102604680/c065c8ef-8b43-4b14-99d1-51948fbef642)
